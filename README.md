@@ -2,6 +2,22 @@
 
 # Shadow Slave
 
+## Repository guide
+
+This is the **Shadow Slave-inspired Minecraft Forge mod**, not the Unity SAS prototype or the separate CircleMage project. The source connects a soul-core/progression UI, energy systems, rank advancement and a Forgotten Shore dimension/mission concept.
+
+The declared baseline is **Minecraft 1.20.1, Forge 47.x and Java 17**. Match the exact dependency values in [gradle.properties](gradle.properties) and [build.gradle](build.gradle). From a configured source checkout on Windows:
+
+```powershell
+.\gradlew.bat build
+```
+
+Build output is generated locally under `build/libs/`; it is not a preinstalled mod. Use the matching Forge client/server setup and follow the feature/command guide below. Developer playtest commands are not a substitute for ordinary progression testing.
+
+`src/` holds the mod implementation/resources; `gradle/` and the root Gradle files hold the build. Historical exported fragments and older MDK folders are not additional installations required by this repository.
+
+This is an unofficial fan/learning project inspired by **Shadow Slave**. It is not affiliated with the novel's author/publisher, Mojang or Microsoft. Names and reference material retain their owners' rights. The roadmap below identifies unfinished systems; feature descriptions should not be read as a claim of full novel/game parity.
+
 A Minecraft mod inspired by the web novel **Shadow Slave**. Awaken your **Soul Core**, harvest
 energy from everything you kill, and rise through the ranks of the Nightmare — beginning with your
 first descent into the **Forgotten Shore**.
@@ -186,3 +202,8 @@ Per-player state lives in a Forge capability and persists through death/respawn 
   Great Tide event. The Tide, statues, spires and coral labyrinth are in; terrain shape is still
   vanilla-overworld-derived.
 - Proper sculpted statue/spire models (currently full-cube blocks) and art for the Soul Core orb.
+
+
+## Source snapshot and validation
+
+See [BACKUP_NOTES.md](BACKUP_NOTES.md) for the omitted build outputs, local settings, credentials and runtime data. Build generated binaries locally using the instructions above; a source checkout is not an installed application. Earlier validation figures in this guide describe their original development runs. This documentation update checks source references and instructions; it does not claim a fresh application, device or gameplay test.
