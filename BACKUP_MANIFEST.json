@@ -8,8 +8,18 @@
     },
     {
       "path": ".gitignore",
-      "size": 188,
-      "sha256": "efc7995172c172d5e2a5dfad4484abc9f4b6030aa2bf5bb9453180043f8d593f"
+      "size": 555,
+      "sha256": "e20cdbfc157aedf943c9bc29d281fc475b8ba9649e98a5916f2b58b1a0f10efe"
+    },
+    {
+      "path": "BACKUP_NOTES.md",
+      "size": 1459,
+      "sha256": "d6c29e68386b190ec916fb02c8ac6700028d51dc1aa1e5649f3043469a6402db"
+    },
+    {
+      "path": "README.md",
+      "size": 10712,
+      "sha256": "adcd17361300e4bb723aacae6396911aa7f3f58007aebd65311c6a74402e065a"
     },
     {
       "path": "build.gradle",
@@ -22,6 +32,16 @@
       "sha256": "816f118c5f5298cc0968093e84c362a5aa0c39e5ee8f514b582d473099b36444"
     },
     {
+      "path": "gradle/wrapper/gradle-wrapper.jar",
+      "size": 62076,
+      "sha256": "ed2c26eba7cfb93cc2b7785d05e534f07b5b48b5e7fc941921cd098628abca58"
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.properties",
+      "size": 315,
+      "sha256": "11e4035cd464e5ba1e106dcce29fac1d230014aa31ee37a67fa837a88ea9b1c0"
+    },
+    {
       "path": "gradlew",
       "size": 8496,
       "sha256": "fb3cbfe6d066ee52bc07f62ed61ff77bde195384f52496c94280a83008d9f531"
@@ -32,24 +52,9 @@
       "sha256": "8e327fcb99d29ce0fe3ee2fec6e6a25de815a2df83a6a44a553dea89ffc92955"
     },
     {
-      "path": "README.md",
-      "size": 9069,
-      "sha256": "6ea609e86e174d5705fca241cdd504491f684b96fbecddd6dcf16ec06343a2af"
-    },
-    {
       "path": "settings.gradle",
       "size": 289,
       "sha256": "21c8c1cfea9f78f7fed6d7ad325aafa24e0d1bd330a40719997c303d2217b830"
-    },
-    {
-      "path": "gradle/wrapper/gradle-wrapper.jar",
-      "size": 62076,
-      "sha256": "ed2c26eba7cfb93cc2b7785d05e534f07b5b48b5e7fc941921cd098628abca58"
-    },
-    {
-      "path": "gradle/wrapper/gradle-wrapper.properties",
-      "size": 221,
-      "sha256": "0c0c22ccb8e653a13a7df19493b11fe5ce0f5fae7ee4835223d2d2ad028799da"
     },
     {
       "path": "src/main/java/com/shadowslave/ShadowSlave.java",
@@ -177,9 +182,9 @@
       "sha256": "d77ab0ad254ad5d34790fd36a3d09aa7dcfc02a1b5f2eb63ed6827c5554f712a"
     },
     {
-      "path": "src/main/resources/pack.mcmeta",
-      "size": 99,
-      "sha256": "a8efdadbcafb38421e717af896484f018ccb838fbff636096a866270aa2e9a21"
+      "path": "src/main/resources/META-INF/mods.toml",
+      "size": 522,
+      "sha256": "2ddfec063a17250db4ad5ff179ab802ee58a1047ff4dc933fe7642f3812d87b0"
     },
     {
       "path": "src/main/resources/assets/shadowslave/blockstates/ashen_sand.json",
@@ -205,6 +210,46 @@
       "path": "src/main/resources/assets/shadowslave/lang/en_us.json",
       "size": 387,
       "sha256": "de579111e123c0063531e19ef2002fdd829dcc0d45ba5a0ee892c457e51fe1e5"
+    },
+    {
+      "path": "src/main/resources/assets/shadowslave/models/block/ashen_sand.json",
+      "size": 116,
+      "sha256": "dd387884bdcc551055b4810a5cded1d2c9b035dc4a22ebb10f2dc7ab455c60c8"
+    },
+    {
+      "path": "src/main/resources/assets/shadowslave/models/block/crimson_coral.json",
+      "size": 119,
+      "sha256": "0dbd0c1e9ebfb2045818325dccc47ff219ba5488903e5f27d858212ccd2b4cdf"
+    },
+    {
+      "path": "src/main/resources/assets/shadowslave/models/block/crimson_spire_block.json",
+      "size": 125,
+      "sha256": "01e354efd712b0620763b402ab2a7446207b0c4e7dd2088e0e7082a0772e08fe"
+    },
+    {
+      "path": "src/main/resources/assets/shadowslave/models/block/petrified_sleeper.json",
+      "size": 123,
+      "sha256": "d6586234b6e6d8edf22322f44a4ecabf2f20723efd0e96aa667257384fbd4ebb"
+    },
+    {
+      "path": "src/main/resources/assets/shadowslave/models/item/ashen_sand.json",
+      "size": 49,
+      "sha256": "40efcc70b1796e69d7c8ecf3ed256a4fd3fae3267c3e2d6dc499451fecf33836"
+    },
+    {
+      "path": "src/main/resources/assets/shadowslave/models/item/crimson_coral.json",
+      "size": 52,
+      "sha256": "90ee9b9ac42f3f63018e0c3a457e62177967e92618b9f99aea5a237e297c9366"
+    },
+    {
+      "path": "src/main/resources/assets/shadowslave/models/item/crimson_spire_block.json",
+      "size": 58,
+      "sha256": "4a00379db3db5e2be6bce2f5b2616fc902be5158b5748b8a737b17c3cd75a1b1"
+    },
+    {
+      "path": "src/main/resources/assets/shadowslave/models/item/petrified_sleeper.json",
+      "size": 56,
+      "sha256": "cba2b4f08d2b4f607092b01416df130628919cdad500a16d31c9f0883c4eada5"
     },
     {
       "path": "src/main/resources/assets/shadowslave/textures/block/ashen_sand.png",
@@ -272,9 +317,11 @@
       "sha256": "0b7e3e7224908d7c9f68d381e93a9ea412a3e6333bf0e9df4088054a8ed554da"
     },
     {
-      "path": "src/main/resources/META-INF/mods.toml",
-      "size": 522,
-      "sha256": "2ddfec063a17250db4ad5ff179ab802ee58a1047ff4dc933fe7642f3812d87b0"
+      "path": "src/main/resources/pack.mcmeta",
+      "size": 99,
+      "sha256": "a8efdadbcafb38421e717af896484f018ccb838fbff636096a866270aa2e9a21"
     }
-  ]
+  ],
+  "last_reviewed": "2026-11-07",
+  "manifest_scope": "Current reviewed source snapshot, excluding this manifest itself and untracked generated outputs."
 }
