@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-07",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "size": 256,
+      "sha256": "448fc4f5b88765df18eec1a82fb0ed09d7fb148e50fe49bd004be05effb06285"
+    },
+    {
+      "path": ".gitignore",
+      "size": 188,
+      "sha256": "efc7995172c172d5e2a5dfad4484abc9f4b6030aa2bf5bb9453180043f8d593f"
+    },
+    {
+      "path": "build.gradle",
+      "size": 9955,
+      "sha256": "f50947b2af27e834f58860360a084825951fe987d9dd8ea180e7eee261629d77"
+    },
+    {
+      "path": "gradle.properties",
+      "size": 1300,
+      "sha256": "816f118c5f5298cc0968093e84c362a5aa0c39e5ee8f514b582d473099b36444"
+    },
+    {
+      "path": "gradlew",
+      "size": 8496,
+      "sha256": "fb3cbfe6d066ee52bc07f62ed61ff77bde195384f52496c94280a83008d9f531"
+    },
+    {
+      "path": "gradlew.bat",
+      "size": 2868,
+      "sha256": "8e327fcb99d29ce0fe3ee2fec6e6a25de815a2df83a6a44a553dea89ffc92955"
+    },
+    {
+      "path": "README.md",
+      "size": 8703,
+      "sha256": "3955bfec3f5ebc0927c5cbc8b1cc608af915d6cfb49defaa2bde70f46bd428b5"
+    },
+    {
+      "path": "settings.gradle",
+      "size": 289,
+      "sha256": "21c8c1cfea9f78f7fed6d7ad325aafa24e0d1bd330a40719997c303d2217b830"
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.jar",
+      "size": 62076,
+      "sha256": "ed2c26eba7cfb93cc2b7785d05e534f07b5b48b5e7fc941921cd098628abca58"
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.properties",
+      "size": 221,
+      "sha256": "0c0c22ccb8e653a13a7df19493b11fe5ce0f5fae7ee4835223d2d2ad028799da"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/ShadowSlave.java",
+      "size": 2086,
+      "sha256": "d8d349f48ea6822fd80ebb127e50565e7a6edeab5037b128cfc5849912b8007a"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/client/ClientForgeEvents.java",
+      "size": 2049,
+      "sha256": "b5383172edaca6dbe63fbb859ca3cae96e4f6860565135a05c8160af871c75c9"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/client/ClientSetup.java",
+      "size": 343,
+      "sha256": "372473fde1bfec32260d58386418ac45b82943c247104ed6735d25455939b2ac"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/client/ClientSoulData.java",
+      "size": 571,
+      "sha256": "92a7044ebe8bd1db8088bdae24d03850e445dddbfe699fe772ab246235b9b510"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/client/KeyBindings.java",
+      "size": 877,
+      "sha256": "bf4147391d8ceee403691beb8149af804f56c215d7b6c38bb1e2fbbde0aaeb8b"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/client/gui/SoulCoreScreen.java",
+      "size": 9259,
+      "sha256": "97a8c4727485a492e218c70a4013f1833f5f961a770c511d634586fbd8d3f742"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/command/ModCommands.java",
+      "size": 15231,
+      "sha256": "7998a11b25de1f13d44975b824cdc35db8d4cc1fb080510b05fa55b6ee342c62"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/event/ForgeBusEvents.java",
+      "size": 11191,
+      "sha256": "30ed45bbce0f1cfd2b92bf821f18b601024e4a278cbfa06dfbac5da0d471b92c"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/event/ModBusEvents.java",
+      "size": 605,
+      "sha256": "7dc2d0a2f0bd40d789702a32b9c3b8ccf0bdcb71507ea9766f9d6a8bb2b42bfd"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/network/ModMessages.java",
+      "size": 2145,
+      "sha256": "e8185b166e971a2b026dd07f6282b77dba2394c4c3b216ea6c4d5d108d0a8438"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/network/SyncSoulS2CPacket.java",
+      "size": 1143,
+      "sha256": "c0c109dd9b17cf41ede06c4cd47793b193ff6fcae8ab6ccf921c0f39fd7360c4"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/registry/ModBlocks.java",
+      "size": 2600,
+      "sha256": "f4f6a3087b4167c8f27e1a10fb337cc0c0034ac571315a58802d199185bfc9af"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/registry/ModCreativeTabs.java",
+      "size": 1345,
+      "sha256": "7c0f62a177aa20aff9f370c59e9ff811c0c2347b2fc2f1ced63a0407ce051a6a"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/registry/ModFeatures.java",
+      "size": 1454,
+      "sha256": "9c6f54a2160e9a652f7635613cfc3dae74eedc4fd9e2d19dc182f9d2e39acabe"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/soul/Rank.java",
+      "size": 1691,
+      "sha256": "1f40fe7caca0d3a85437152dbd3872a125ebda9ca8caa49d1c10083321793467"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/soul/RankBuffs.java",
+      "size": 1474,
+      "sha256": "6a043a0801fb80df04115475cbe71668e8e404634ec808096ef8fdb1bd1437d4"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/soul/SoulCapability.java",
+      "size": 478,
+      "sha256": "499dfe900189d3ca91ca113ccccc70f7fa5fa8275d757d0d2fdce3d6029cd860"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/soul/SoulData.java",
+      "size": 6813,
+      "sha256": "40dcfae9873c96a4df0a3f9b1eb7a79bc24656d44b0337802081b1ac1e4a419b"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/soul/SoulProvider.java",
+      "size": 1140,
+      "sha256": "b2a198dbf2be05be64340d8e8e16b32bcccd806b8911ccb155dc4b7eebd05d48"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/world/ForgottenShore.java",
+      "size": 3003,
+      "sha256": "a1e19904bc78873f3e0d78dec2ca882998758b18fabd71c53cab5df157605396"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/world/ForgottenShoreTeleporter.java",
+      "size": 1363,
+      "sha256": "52ef9b84cfd9c7e4e12990450b14e3a04df245391ce3a9e5de2f0930e3537c66"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/world/TideManager.java",
+      "size": 3080,
+      "sha256": "e688214b8f7ed43f9882749391dd6ebfa496edbad7c9ce0194e5953cc7c97e9b"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/world/feature/CoralLabyrinthFeature.java",
+      "size": 2675,
+      "sha256": "25f4070a49c10cc276e810c60ffbb58052b526518cc686cb4c8496a7926d6dc4"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/world/feature/CrimsonSpireFeature.java",
+      "size": 2302,
+      "sha256": "389d48ca892d6b137e2bb02f6e3c85ed5d3d63e669d3d5bbb7dfcd02e7ea47b8"
+    },
+    {
+      "path": "src/main/java/com/shadowslave/world/feature/SleeperStatueFeature.java",
+      "size": 2618,
+      "sha256": "d77ab0ad254ad5d34790fd36a3d09aa7dcfc02a1b5f2eb63ed6827c5554f712a"
+    },
+    {
+      "path": "src/main/resources/pack.mcmeta",
+      "size": 99,
+      "sha256": "a8efdadbcafb38421e717af896484f018ccb838fbff636096a866270aa2e9a21"
+    },
+    {
+      "path": "src/main/resources/assets/shadowslave/blockstates/ashen_sand.json",
+      "size": 84,
+      "sha256": "4b2d35fc005a375641e60b6df8c9f9d742b528c2e0b42f2b27b8fcd3bd177b76"
+    },
+    {
+      "path": "src/main/resources/assets/shadowslave/blockstates/crimson_coral.json",
+      "size": 87,
+      "sha256": "6b012108a817e65dc9e7c00143b53f586441d7efb3f30e229a7de57366082576"
+    },
+    {
+      "path": "src/main/resources/assets/shadowslave/blockstates/crimson_spire_block.json",
+      "size": 93,
+      "sha256": "2646d357914e221cadd6c8b27c1076c581289a140a88580b8f4879b5a22a650a"
+    },
+    {
+      "path": "src/main/resources/assets/shadowslave/blockstates/petrified_sleeper.json",
+      "size": 91,
+      "sha256": "1c564d0fa1b57a293b9b6b92f7e0d3fad29f51feb7d2d6d3bb6405722ea37847"
+    },
+    {
+      "path": "src/main/resources/assets/shadowslave/lang/en_us.json",
+      "size": 387,
+      "sha256": "de579111e123c0063531e19ef2002fdd829dcc0d45ba5a0ee892c457e51fe1e5"
+    },
+    {
+      "path": "src/main/resources/assets/shadowslave/textures/block/ashen_sand.png",
+      "size": 477,
+      "sha256": "03840fe76b543de70e7e17242ceb4c46d7bb0ec5cfdd9d7f09c97d5d174512a9"
+    },
+    {
+      "path": "src/main/resources/assets/shadowslave/textures/block/crimson_coral.png",
+      "size": 425,
+      "sha256": "b7e8f43876915022d4e265cf790e94f04de8098e7d19fb158469730b94d731d9"
+    },
+    {
+      "path": "src/main/resources/assets/shadowslave/textures/block/crimson_spire_block.png",
+      "size": 419,
+      "sha256": "ff74248fe5f9b659e6df9e75860706a8b58ab3bb03c3b5acd5f84fcc102a897c"
+    },
+    {
+      "path": "src/main/resources/assets/shadowslave/textures/block/petrified_sleeper.png",
+      "size": 388,
+      "sha256": "dc53dc884fba78f50e1be0044b6a0e29b843ce60943669d05bd8e0ed17b8bddb"
+    },
+    {
+      "path": "src/main/resources/data/shadowslave/dimension/forgotten_shore.json",
+      "size": 276,
+      "sha256": "0c246642b4ab651a4e8cefa4d72e0b84f46b277b3b68f2025a55283c5153d003"
+    },
+    {
+      "path": "src/main/resources/data/shadowslave/dimension_type/forgotten_shore.json",
+      "size": 497,
+      "sha256": "541897c984cedeb9057c465475c2435e51d0a7ae7be24f7e85b4d5a20d90aa0e"
+    },
+    {
+      "path": "src/main/resources/data/shadowslave/worldgen/biome/forgotten_shore.json",
+      "size": 2078,
+      "sha256": "24eef867c2f075ef1e68d162a136633b398ba6ed2b6cd1f023a27f3654dfdbee"
+    },
+    {
+      "path": "src/main/resources/data/shadowslave/worldgen/configured_feature/coral_labyrinth.json",
+      "size": 64,
+      "sha256": "3cdabe176b5ec2b864cb961e620c1c25fa82de931950186b8307c3f71dac9e24"
+    },
+    {
+      "path": "src/main/resources/data/shadowslave/worldgen/configured_feature/crimson_spire.json",
+      "size": 62,
+      "sha256": "b685068f9d43a5fff341dc2db81d34a3d1062de4882cf1875b67322985afb056"
+    },
+    {
+      "path": "src/main/resources/data/shadowslave/worldgen/configured_feature/sleeper_statue.json",
+      "size": 63,
+      "sha256": "2c0582434a5bef86f69562a1cccc4cd5186617534192aaa677fc86665e4d307e"
+    },
+    {
+      "path": "src/main/resources/data/shadowslave/worldgen/placed_feature/coral_labyrinth.json",
+      "size": 281,
+      "sha256": "5369046c21e035a12c7f545c55ee17692ccfc3ca0a92b9821418551adc2ab628"
+    },
+    {
+      "path": "src/main/resources/data/shadowslave/worldgen/placed_feature/crimson_spire.json",
+      "size": 291,
+      "sha256": "ebf111147e08053a58303554c56627a1ffe3a604f40e0afff6ebf4c9db689fa9"
+    },
+    {
+      "path": "src/main/resources/data/shadowslave/worldgen/placed_feature/sleeper_statue.json",
+      "size": 280,
+      "sha256": "0b7e3e7224908d7c9f68d381e93a9ea412a3e6333bf0e9df4088054a8ed554da"
+    },
+    {
+      "path": "src/main/resources/META-INF/mods.toml",
+      "size": 522,
+      "sha256": "2ddfec063a17250db4ad5ff179ab802ee58a1047ff4dc933fe7642f3812d87b0"
+    }
+  ]
+}
