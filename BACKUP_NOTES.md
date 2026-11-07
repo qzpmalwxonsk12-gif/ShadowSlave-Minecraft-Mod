@@ -1,4 +1,8 @@
-# Source backup
+# ShadowSlave-Minecraft-Mod
+
+Unofficial Minecraft Forge mod inspired by Shadow Slave, with soul-core and progression systems.
+
+Unofficial fan/learning project. Third-party names, characters, artwork, and other materials remain subject to their owners' rights. No affiliation or endorsement is claimed.
 
 Private source snapshot prepared on 2026-11-07. Original local files were not changed.
 
